@@ -1,0 +1,16 @@
+logging:
+  level:
+    root: info
+
+server:
+  port: 8080
+
+telegram:
+  key: YOUR-KEY
+  chat-id: CHAT-ID
+
+coinbase:
+  base-url: https://api.pro.coinbase.com
+  secret-key: SECRET-KEY
+  public-key: PUBLIC-KEY
+  passphrase: PASSPHRASE
